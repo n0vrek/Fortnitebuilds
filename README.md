@@ -1,12 +1,12 @@
 # Fortnitebuilds
-Every Fortnite build from s20+
+Every Fortnite build from s20+.
 
 ## Other information.
-Note im still uploading builds so ill update this github daily
-My discord server (https://discord.gg/gUNY6PvPGQ)
+Note im still uploading builds so ill update this github daily.
+My discord server. (https://discord.gg/gUNY6PvPGQ)
 
 # Credits
-Credits to Kovryn for letting me use his domain
+Credits to Kovryn for letting me use his domain.
 
 # Downloads
 
