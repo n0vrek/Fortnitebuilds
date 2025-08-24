@@ -75,7 +75,7 @@ Credits to Kovryn for letting me use his domain.
 | 23.30-CL-23986860 | Unavailable |
 | 23.40-CL-24087481 | Unavailable |
 | 23.50-CL-24376996 | Lost        |
-| 23.50-CL-24441668 | Unavailable |
+| 23.50-CL-24441668 | https://r2.kovryn.xyz/23.50.rar |
 
 ## Season 24
 
