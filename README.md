@@ -17,7 +17,7 @@ Credits to Kovryn for letting me use his domain.
 
 | Build             | Download    |
 | ----------------- | ----------- |
-| 20.00-CL-19458861 | Unavailable |
+| 20.00-CL-19458861 | https://r2.kovryn.xyz/20.00-CL-19458861.7z |
 | 20.00-CL-19532288 | Unavailable |
 | 20.10-CL-19598943 | Unavailable |
 | 20.20-CL-19751212 | Unavailable |
