@@ -138,7 +138,7 @@ Credits to Kovryn for letting me use his domain.
 | 28.10-CL-30835064 | Unavailable |
 | 28.20-CL-31165234 | Unavailable |
 | 28.20-CL-31286935 | Unavailable |
-| 28.30-CL-31511038 | Unavailable |
+| 28.30-CL-31511038 | https://r2.kovryn.xyz/28.30-CL-31511038.7z |
 
 ## Season 29
 
