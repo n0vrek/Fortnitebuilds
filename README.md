@@ -20,7 +20,6 @@ Credits to Kovryn for letting me use his domain.
 | 20.00-CL-19458861 | https://r2.kovryn.xyz/20.00-CL-19458861.7z |
 | 20.10-CL-19598943 | Unavailable |
 | 20.20-CL-19751212 | Unavailable |
-| 20.20-CL-19896998 | Unavailable |
 | 20.30-CL-19950687 | Unavailable |
 | 20.30-CL-20037261 | Unavailable |
 | 20.40-CL-20244966 | Unavailable |
